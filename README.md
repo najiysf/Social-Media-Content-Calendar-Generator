@@ -1,7 +1,12 @@
 # Social-Media-Content-Calendar-Generator
 Generates a weekly social media content calendar by assigning content ideas to optimal posting days with specific times using engagement data, exporting the final schedule to  CSV for planning and analysis.
-
-![unnamed](https://github.com/user-attachments/assets/e7b6ea3c-0c55-4b21-b2ed-34a73be88559)
+ 
+  <img 
+    src="https://github.com/user-attachments/assets/e7b6ea3c-0c55-4b21-b2ed-34a73be88559"
+    width="230"
+    style="border-radius: 12px; box-shadow: 0 0 18px rgba(255, 105, 180, 0.7);"
+  />
+</p>
 
 How it works! 🧠
 1. Defining:
